@@ -45,4 +45,3 @@ I enjoy working close to systems — optimizing performance, designing efficient
 - Building **scalable backend architectures**
 - Understanding systems at a deeper level
 
---
