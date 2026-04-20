@@ -8,10 +8,10 @@ I enjoy working close to systems — optimizing performance, designing efficient
 
 ## ⚙️ Tech Stack
 
-**Languages:** C++, Python, MATLAB  
-**Backend:** FastAPI, REST APIs  
+**Languages:** C++, Java, Python, MATLAB  
+**Backend:** FastAPI, REST APIs , Springboot 
 **Systems & Infra:** gRPC, Protobuf, Docker, Linux Networking  
-**Core CS:** Data Structures, Algorithms, OS, DBMS  
+**Core CS:** Data Structures, Algorithms, OS, DBMS, OOPS
 
 ---
 
