@@ -31,11 +31,10 @@ I enjoy working close to systems — optimizing performance, designing efficient
 
 ---
 
-### 🔹 Graph-Based Recommendation Engine
-- Designed real-time recommendation system using graph traversal  
-- Implemented multi-metric similarity (Cosine, Jaccard, etc.)  
-- Achieved **sub-millisecond latency**
-
+### 🔹 Splitwise Backend
+- Developed a backend expense-sharing application using Java 17 and Spring Boot
+- Implemented a Greedy Settlement Algorithm to reduce required transactions
+- Designed a normalized MySQL schema using Spring Data JPA 
 ---
 
 ## 🧠 What I Care About
